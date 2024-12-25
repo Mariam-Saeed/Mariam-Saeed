@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mariam-Saeed
-- 👀 I’m interested in web development, database and cloud.
+- 👀 I’m interested in web development, database, and cloud.
 - 🌱 I’m currently learning Frontend development.
 
 
