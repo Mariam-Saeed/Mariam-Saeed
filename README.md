@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Mariam-Saeed
-- 👀 I’m interested in web development, database, and cloud.
-- 🌱 I’m currently learning Frontend development.
+# Hi there 👋, I'm Mariam
+
+💻 Frontend Developer | Driven by problem-solving and continuous learning  
+
+### 🚀 About Me
+- 💼 Frontend Developer  
+- 👀 Interested in **User Experience, Web Development, Databases, and Cloud**  
+- 💡 I enjoy building things, seeing them come to life, and solving real-world problems through technology  
+
+### 🛠️ Tech Stack
+- **Frontend:** Vue.js, React, JavaScript, Typescript, HTML, CSS, Tailwind, Bootstrap  
+- **Backend:** Python, Django, Node.js
 
 
 <!---
