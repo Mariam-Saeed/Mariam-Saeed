@@ -1,17 +1,20 @@
+
 # Mariam Saeed
 
-💻 Frontend Developer | Driven by problem-solving and continuous learning  
+Frontend Developer passionate about building thoughtful, user-friendly web experiences and solving real-world problems through technology.
 
-### 🚀 About Me
-- 💼 Frontend Developer  
-- 👀 Interested in **User Experience, Web Development, Databases, and Cloud**  
-- 💡 I enjoy building things, seeing them come to life, and solving real-world problems through technology  
+I enjoy building things, seeing them come to life, and continuously learning along the way.
 
-### 🛠️ Tech Stack
-- **Frontend:** Vue.js, React, JavaScript, Typescript, HTML, CSS, Tailwind, Bootstrap  
-- **Backend:** Python, Django, Node.js
+### Tech Stack
 
-### Hacktoberfest 2025 Contributor 
+**Frontend:** JavaScript, TypeScript, Vue.js, Nuxt.js, React, Next.js, HTML, CSS, Tailwind CSS
 
-[![An image of @mariamsaeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mariamsaeed)](https://holopin.io/@mariamsaeed)
+**Backend:** Python, Django
 
+**Tools:** Git, GitHub Actions, Docker
+
+### Connect
+
+- [Portfolio](https://mariam-saeed.vercel.app)
+- [LinkedIn](https://linkedin.com/in/mariam-saeed)
+- [Resume](https://mariam-saeed.github.io/resume/resume.pdf)
